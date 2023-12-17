@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Email Spam Classifier",
+    "version": "0.0.1",
+    "description": "A Chrome extension that classifies emails as spam or not.",
+    "permissions": [
+        "activeTab",
+        "storage"
+    ],
+
+    "action":{
+        "default_popup": "popup.html"
+    }
+}

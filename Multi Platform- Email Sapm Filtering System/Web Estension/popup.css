@@ -1,0 +1,42 @@
+body {
+    width: 300px;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  #result {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #classification {
+    font-weight: bold;
+  }
+  
+  #email-content {
+    margin-top: 20px;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 100px;
+    resize: none;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  button {
+    display: block;
+    margin: 10px auto;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
